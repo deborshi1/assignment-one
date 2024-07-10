@@ -76,7 +76,8 @@ text-align: center;
   font-size: 32px;
   color: #0D1321;
 }
-.section-des{
+.section
+des{
 font-size: 16px;
 color: #0D1321;
 }
@@ -92,5 +93,30 @@ main{
 .banner-description{
   color: #0D1321;
   font-size: 16pz;
+  font-weight: 700;
+}
+.i-will{
+  font-weight: bold;
+  font-size: 24px;
+}
+.codeing-d{
+  font-size: 16px;
   font-weight: 300;
+}
+.learn-more{
+  font-size: 20;
+  font-weight: 600;
+  padding:10px;
+}
+.layer1{
+  width: 274px;
+  height: 240px;
+}
+.code{
+  display: flex;
+  justify-content:last baseline;
+}
+.codeing{
+  max-width: 850px;
+  padding: 48px;
 }
